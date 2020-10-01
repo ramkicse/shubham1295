@@ -1,7 +1,6 @@
-![](https://komarev.com/ghpvc/?username=shubham1295&color=green)
-
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=shubham1295&color=green)
 
 ![Image of Profile Stats](https://github-readme-stats.vercel.app/api?username=shubham1295&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--
